@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>STs & Items</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <img src="pics/IMG_orange_bag.png" title="Orange Bag" alt="Orange Bag" id="OrangeBag" onclick="myOrangeBagFunction()">
+    <img src="pics/IMG_omni.png" id="img" onclick="myIMGFunction()">
+    <img src="pics/IMG_oreo.png" id="img" onclick="myIMGFunction()">
+    <img src="pics/IMG_banner.png" id="img" onclick="myIMGFunction()">
+    <img src="pics/IMG_jugg.png" id="img" onclick="myIMGFunction()">
+<script>
+
+function myOrangeBagFunction() {
+        var OrangeBag = document.getElementById('OrangeBag');
+        OrangeBag.style.opacity="1"
+//     localStorage.OrangeBag = OrangeBag
+//     document.getElementById("OrangeBag").innerHTML = localStorage.OrangeBag;
+// }
+
+// document.getElementById("blank").innerHTML = localStorage.blank;
+// addClass for "active" og lage egen funksjon 
+
+// #Table_01 {
+//    background: url("IMG_nexus_background.png");
+//   background-color: transparent;
+//    max-width: none;
+// }
+}
+function myIMGFunction() {
+        var img = document.getElementById('img');
+        img.style.opacity="0.5"
+        document.getElementById("img").className = active
+}
+</script>
+
+</body>
+</html>
