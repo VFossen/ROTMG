@@ -1,7 +1,7 @@
 #IMG_ST {
     position: absolute;
     left: 100px;
-    top: -10px;
+    top: -105px;
     width: 30px;
     height: 30px;
 }
@@ -9,6 +9,13 @@
     position: absolute;
     left: 1230px;
     top: 0px;
+    width: 30px;
+    height: 30px;
+}
+#Redbag {
+    position: absolute;
+    left: 2px;
+    top: 95px;
     width: 30px;
     height: 30px;
 }
