@@ -1691,6 +1691,76 @@
     width: 30px;
     height: 30px;
 }
+#IMG_ass_sword{
+    position: absolute;
+    left: 779px;
+    top: 505px;
+    width: 30px;
+    height: 30px;
+}
+#IMG_scutum{
+    position: absolute;
+    left: 779px;
+    top: 549px;
+    width: 30px;
+    height: 30px;
+}
+#IMG_mad_god_cloak{
+    position: absolute;
+    left: 829px;
+    top: 505px;
+    width: 30px;
+    height: 30px;
+}
+#IMG_furor_tome{
+    position: absolute;
+    left: 829px;
+    top: 549px;
+    width: 30px;
+    height: 30px;
+}
+#IMG_battle_of_nexus_dagger{
+    position: absolute;
+    left: 894px;
+    top: 505px;
+    width: 30px;
+    height: 30px;
+}
+#IMG_battle_of_nexus_bow{
+    position: absolute;
+    left: 894px;
+    top: 549px;
+    width: 30px;
+    height: 30px;
+}
+#IMG_battle_of_nexus_staff{
+    position: absolute;
+    left: 944px;
+    top: 505px;
+    width: 30px;
+    height: 30px;
+}
+#IMG_battle_of_nexus_wand{
+    position: absolute;
+    left: 944px;
+    top: 549px;
+    width: 30px;
+    height: 30px;
+}
+#IMG_battle_of_nexus_sword{
+    position: absolute;
+    left: 994px;
+    top: 505px;
+    width: 30px;
+    height: 30px;
+}
+#IMG_battle_of_nexus_katana{
+    position: absolute;
+    left: 994px;
+    top: 549px;
+    width: 30px;
+    height: 30px;
+}
 #OrangeBag {
     opacity: 0.5;
     cursor: pointer;
