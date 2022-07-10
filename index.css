@@ -1761,6 +1761,97 @@
     width: 30px;
     height: 30px;
 }
+#IMG_doku_katana{
+    position: absolute;
+    left: 1059px;
+    top: 505px;
+    width: 30px;
+    height: 30px;
+}
+#IMG_depths_mace{
+    position: absolute;
+    left: 1059px;
+    top: 549px;
+    width: 30px;
+    height: 30px;
+}
+#IMG_cutlass_sword{
+    position: absolute;
+    left: 1109px;
+    top: 505px;
+    width: 30px;
+    height: 30px;
+}
+#IMG_wavecrest_lute{
+    position: absolute;
+    left: 1109px;
+    top: 549px;
+    width: 30px;
+    height: 30px;
+}
+#IMG_leaf_bow{
+    position: absolute;
+    left: 1159px;
+    top: 505px;
+    width: 30px;
+    height: 30px;
+}
+#IMG_eastern_winds_wakizashi{
+    position: absolute;
+    left: 1159px;
+    top: 549px;
+    width: 30px;
+    height: 30px;
+}
+#IMG_labyrinth_sheath{
+    position: absolute;
+    left: 1208px;
+    top: 505px;
+    width: 30px;
+    height: 30px;
+}
+#IMG_candy_armor{
+    position: absolute;
+    left: 1059px;
+    top: 622px;
+    width: 30px;
+    height: 30px;
+}
+#IMG_prismimic{
+    position: absolute;
+    left: 1109px;
+    top: 622px;
+    width: 30px;
+    height: 30px;
+}
+#IMG_mimicry_trap{
+    position: absolute;
+    left: 1159px;
+    top: 622px;
+    width: 30px;
+    height: 30px;
+}
+#IMG_crystal_sword{
+    position: absolute;
+    left: 1059px;
+    top: 667px;
+    width: 30px;
+    height: 30px;
+}
+#IMG_crystal_wand{
+    position: absolute;
+    left: 1109px;
+    top: 667px;
+    width: 30px;
+    height: 30px;
+}
+#IMG_crystal_mace{
+    position: absolute;
+    left: 1159px;
+    top: 667px;
+    width: 30px;
+    height: 30px;
+}
 #OrangeBag {
     opacity: 0.5;
     cursor: pointer;
