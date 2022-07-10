@@ -1,7 +1,14 @@
 #IMG_ST {
     position: absolute;
-    left: 1400px;
+    left: 100px;
     top: -10px;
+    width: 30px;
+    height: 30px;
+}
+#Whitebag {
+    position: absolute;
+    left: 1230px;
+    top: 0px;
     width: 30px;
     height: 30px;
 }
@@ -1849,6 +1856,69 @@
     position: absolute;
     left: 1159px;
     top: 667px;
+    width: 30px;
+    height: 30px;
+}
+#IMG_t14_dagger{
+    position: absolute;
+    left: 82px;
+    top: 570px;
+    width: 30px;
+    height: 30px;
+}
+#IMG_t14_bow{
+    position: absolute;
+    left: 164px;
+    top: 570px;
+    width: 30px;
+    height: 30px;
+}
+#IMG_t14_staff{
+    position: absolute;
+    left: 246px;
+    top: 570px;
+    width: 30px;
+    height: 30px;
+}
+#IMG_t14_wand{
+    position: absolute;
+    left: 328px;
+    top: 570px;
+    width: 30px;
+    height: 30px;
+}
+#IMG_t14_sword{
+    position: absolute;
+    left: 410px;
+    top: 570px;
+    width: 30px;
+    height: 30px;
+}
+#IMG_t14_katana{
+    position: absolute;
+    left: 492px;
+    top: 570px;
+    width: 30px;
+    height: 30px;
+}
+#IMG_t15_light_armor{
+    position: absolute;
+    left: 191px;
+    top: 643px;
+    width: 30px;
+    height: 30px;
+}
+#IMG_t15_robe{
+    position: absolute;
+    left: 286px;
+    top: 643px;
+    width: 30px;
+    height: 30px;
+}
+#IMG_t15_heavy_armor{
+    position: absolute;
+    left: 382px;
+    top: 643px;
     width: 30px;
     height: 30px;
 }
