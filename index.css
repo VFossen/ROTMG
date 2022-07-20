@@ -1,3 +1,13 @@
+.unlocked {
+    opacity: 1 !important;
+  }
+
+  .itemactive {
+    cursor: pointer;
+    object-fit: cover;
+    opacity: 0.2;
+  }
+
 #IMG_ST {
     position: absolute;
     left: 100px;
@@ -18,12 +28,6 @@
     top: 95px;
     width: 30px;
     height: 30px;
-}
-.item {
-    opacity: 0.5;
-}
-.active {
-    opacity: 0.5!important;
 }
 #IMG_oreo {
     position: absolute;
