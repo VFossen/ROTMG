@@ -1,5 +1,8 @@
 //Initialize all items
 const items = [
+    'IMG_oreo',
+    'IMG_jugg',
+    'IMG_ogmur'
   ];
 
 //Load state of an item
@@ -13,10 +16,13 @@ function loadItems(item, index) {
   
     //Change state of item on click
     $('.itemactive').click(function() {
+
       if ($(this).hasClass('unlocked')) {
         $(this).toggleClass('unlocked');
         localStorage.setItem($(this).attr('id'), '');
-      } else {
+      
+    
+    } else {
         $(this).toggleClass('unlocked');
         localStorage.setItem($(this).attr('id'), 'unlocked');
       }
