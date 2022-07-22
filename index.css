@@ -1646,30 +1646,37 @@
     width: 30px;
     height: 30px;
 }
+#IMG_incubation_mace{
+    position: absolute;
+    left: 1188px;
+    top: 388px;
+    width: 30px;
+    height: 30px;
+}
 #IMG_reskin_jugg{
     position: absolute;
-    left: 1209px;
+    left: 1253px;
     top: 388px;
     width: 30px;
     height: 30px;
 }
 #IMG_reskin_cdirk{
     position: absolute;
-    left: 1211px;
+    left: 1255px;
     top: 432px;
     width: 30px;
     height: 30px;
 }
 #IMG_reskin_conflict{
     position: absolute;
-    left: 1259px;
+    left: 1301px;
     top: 388px;
     width: 30px;
     height: 30px;
 }
 #IMG_reskin_spirit_trap{
     position: absolute;
-    left: 1259px;
+    left: 1301px;
     top: 432px;
     width: 30px;
     height: 30px;
