@@ -1,13 +1,11 @@
 .unlocked {
     opacity: 1 !important;
   }
-
   .itemactive {
     cursor: pointer;
     object-fit: cover;
     opacity: 0.2;
   }
-
 #IMG_ST {
     position: absolute;
     left: 100px;

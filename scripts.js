@@ -1,4 +1,4 @@
-//Initialize all items
+//Initialize all the items
 const items = [
     'IMG_oreo',
     'IMG_jugg',
