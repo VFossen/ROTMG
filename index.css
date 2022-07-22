@@ -6,9 +6,6 @@
     object-fit: cover;
     opacity: 0.5;
   }
-body {
-    background-image: url(Pics/IMG_rotmg_background.jpg);
-}
 #IMG_ST {
     position: absolute;
     left: 100px;
