@@ -6,10 +6,17 @@
     object-fit: cover;
     opacity: 0.5;
   }
+#IMG_White {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 30px;
+    height: 30px;
+}
 #IMG_ST {
     position: absolute;
     left: 100px;
-    top: -105px;
+    top: -95px;
     width: 30px;
     height: 30px;
 }
